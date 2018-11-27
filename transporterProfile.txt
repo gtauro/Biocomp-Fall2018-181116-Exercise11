@@ -1,0 +1,40 @@
+FILENAME: 
+Arthrobacter.fasta
+HIT COUNT: 
+0
+
+FILENAME: 
+Bacillus.fasta
+HIT COUNT: 
+1
+
+FILENAME: 
+Clostridium.fasta
+HIT COUNT: 
+0
+
+FILENAME: 
+Flavobacterium.fasta
+HIT COUNT: 
+1
+
+FILENAME: 
+Limnohabitans.fasta
+HIT COUNT: 
+1
+
+FILENAME: 
+Rhizobium.fasta
+HIT COUNT: 
+0
+
+FILENAME: 
+Roseobacter.fasta
+HIT COUNT: 
+1
+
+FILENAME: 
+Verrucomicrobia.fasta
+HIT COUNT: 
+0
+
